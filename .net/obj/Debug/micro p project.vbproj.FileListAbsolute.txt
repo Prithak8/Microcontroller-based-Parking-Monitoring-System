@@ -1,0 +1,11 @@
+C:\Users\Prithak Gajurel\source\repos\micro p project\micro p project\obj\Debug\micro p project.vbproj.AssemblyReference.cache
+C:\Users\Prithak Gajurel\source\repos\micro p project\micro p project\obj\Debug\micro_p_project.Resources.resources
+C:\Users\Prithak Gajurel\source\repos\micro p project\micro p project\obj\Debug\micro p project.vbproj.GenerateResource.cache
+C:\Users\Prithak Gajurel\source\repos\micro p project\micro p project\obj\Debug\micro p project.vbproj.CoreCompileInputs.cache
+C:\Users\Prithak Gajurel\source\repos\micro p project\micro p project\bin\Debug\micro p project.exe
+C:\Users\Prithak Gajurel\source\repos\micro p project\micro p project\bin\Debug\micro p project.pdb
+C:\Users\Prithak Gajurel\source\repos\micro p project\micro p project\bin\Debug\micro p project.xml
+C:\Users\Prithak Gajurel\source\repos\micro p project\micro p project\obj\Debug\micro p project.exe
+C:\Users\Prithak Gajurel\source\repos\micro p project\micro p project\obj\Debug\micro p project.xml
+C:\Users\Prithak Gajurel\source\repos\micro p project\micro p project\obj\Debug\micro p project.pdb
+C:\Users\Prithak Gajurel\source\repos\micro p project\micro p project\obj\Debug\micro_p_project.Parking_Lot_Status.resources
