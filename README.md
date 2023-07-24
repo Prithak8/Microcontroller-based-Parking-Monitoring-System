@@ -27,6 +27,12 @@
 
 ![image](https://github.com/Prithak8/Microcontroller-based-Parking-Monitoring-System/assets/109690999/29636b31-bfc8-4e96-a5b9-e0022183375f)
 
+## ANDROID INTERFACE
+
+
+![image](https://github.com/Prithak8/Microcontroller-based-Parking-Monitoring-System/assets/109690999/8e4dd702-59e8-46a2-9237-dc941d053779)
+
+![image](https://github.com/Prithak8/Microcontroller-based-Parking-Monitoring-System/assets/109690999/800d6144-e5ed-4c14-b752-7c51fde40e88)
 
 
 
