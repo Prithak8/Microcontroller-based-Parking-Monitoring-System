@@ -17,7 +17,7 @@
 ![image](https://github.com/Prithak8/Microcontroller-based-Parking-Monitoring-System/assets/109690999/5d8db8fa-0419-42b3-822a-713b5e43d375)
 
 
-## Physical Setup:
+# Physical Setup:
 
 ![image](https://github.com/Prithak8/Microcontroller-based-Parking-Monitoring-System/assets/109690999/c88907f3-ff82-4e5c-8fb6-f94d736539fc)
 
